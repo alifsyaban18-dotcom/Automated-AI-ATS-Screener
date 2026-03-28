@@ -1,6 +1,3 @@
-# Automated-AI-ATS-Screener
-Weekend project: AI-powered resume screening and automated HR emails.
-
 # 🤖 Automated AI ATS & Culture-Fit Screener
 
 A weekend project to build an end-to-end automated Applicant Tracking System (ATS) powered by Python and Google's Gemini AI. 
