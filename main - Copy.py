@@ -17,9 +17,8 @@ API_KEY_GEMINI = "YOUR_API_KEY"
 client = genai.Client(api_key=API_KEY_GEMINI)
 LINK_SHEETS = "YOUR_LINK"
 
-# Kredensial Pengirim Email (Gmail Lu)
-EMAIL_PENGIRIM = "YOUR_EMAIL" # Ganti pakai email lu
-PASSWORD_APLIKASI = "YOUR_PASSWORD" # Masukkan 16 huruf sandi (tanpa spasi)
+EMAIL_PENGIRIM = "YOUR_EMAIL" 
+PASSWORD_APLIKASI = "YOUR_PASSWORD" 
 
 # ==========================================
 # 2. FUNGSI UNTUK MEMBACA PDF
